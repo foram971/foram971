@@ -1,16 +1,33 @@
-## Hi there 👋
+# Foram Shah
 
-<!--
-**foram971/foram971** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analyst with experience in Power BI, Tableau, and SQL, focused on building data models, dashboards, and business insights.
 
-Here are some ideas to get you started:
+## Experience Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Business analytics and KPI reporting
+* Data modelling (star schema, medallion architecture)
+* Dashboard development for decision-making
+* Data cleaning and transformation
+
+## Selected Projects
+
+### Business Analytics Solution (Power BI)
+
+End-to-end reporting solution including data modelling, DAX-based KPIs, and forecasting.
+
+### Retail Analytics – WarmHands (Power BI)
+
+Analysis of sales performance, profitability, inventory, and customer behaviour.
+
+### Job Market Analytics (Tableau)
+
+Exploration of job market trends, including salary distribution, skill demand, and applicant patterns.
+
+## Tools
+
+Power BI | Tableau | SQL | Excel | Python
+
+## Links
+
+LinkedIn: https://www.linkedin.com/in/foramshahnimeshbhai
+GitHub: https://github.com/foram971
