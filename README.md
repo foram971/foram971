@@ -42,7 +42,16 @@ Data Analyst with a foundation in software and database management, working acro
 
 ---
 
-### Certifications
+### Certifications & Assessments
 
-- **IBM – Data Analyst Specialization** *(Issued May 2021)*
-- **AZ-900 – Microsoft Azure Fundamentals** *(Issued March 2021)*
+- **SQLite (Coding): Intermediate-Level Querying — 89th Percentile** · *TestGorilla (Issued Jul 2026)*[cite: 3]
+- **[IBM Data Analyst Professional Certificate](https://www.credly.com/users/foram-shah.6bea922e)** · *Coursera / IBM (Issued May 15, 2021)*[cite: 3, 6]
+  - **[Data Analyst Capstone Project](https://www.credly.com/badges/66cb836f-2e10-44c7-9dc2-55e9ffa4hebh)** · *Coursera (Issued May 15, 2021)*[cite: 4, 9]
+  - **Data Analytics Essentials** · *Coursera (Issued May 15, 2021)*[cite: 4]
+  - **Data Visualization with Python** · *Coursera (Issued May 13, 2021)*[cite: 4]
+  - **Data Analysis with Python** · *Coursera (Issued May 6, 2021)*
+  - **Python Project for Data Science** · *Coursera (Issued Apr 28, 2021)*[cite: 5]
+  - **Python for Data Science and AI** · *Coursera (Issued Apr 13, 2021)*[cite: 5]
+- **Microsoft Certified: Azure Fundamentals** · *Microsoft (Issued Mar 26, 2021)*[cite: 5]
+- **Data Visualization & Dashboard Essentials** · *Coursera (Issued Mar 2, 2021)*[cite: 4, 6]
+- **Excel Essentials for Data Analytics** · *Coursera (Issued Feb 25, 2021)*[cite: 5]
