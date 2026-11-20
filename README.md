@@ -1,52 +1,48 @@
 <div align="center">
 
-# Hi, I'm Foram Shah 👋
-### Data Analyst & Technical Educator | Python • SQL • Power BI • Tableau
+# Foram Shah
+### Data Analyst & Insight Communicator | Power BI • Tableau • Python
 
-[![Portfolio](https://img.shields.io/badge/Live_Portfolio-foram971.github.io-1d4ed8?style=for-the-badge&logo=githubpages&logoColor=white)](https://foram971.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-foram971-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/foram971)
+[![Portfolio](https://img.shields.io/badge/Live_Portfolio-foram971.github.io-3ed6b5?style=for-the-badge&logo=githubpages&logoColor=06211b)](https://foram971.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Foram_Shah-111921?style=for-the-badge&logo=linkedin&logoColor=3ed6b5)](https://www.linkedin.com/in/foramshahnimeshbhai)
+[![GitHub](https://img.shields.io/badge/GitHub-foram971-111921?style=for-the-badge&logo=github&logoColor=3ed6b5)](https://github.com/foram971)
 
 </div>
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
-I transform raw, messy datasets into clear, actionable business insights and visual stories. My focus spans **end-to-end data wrangling, statistical hypothesis testing, and interactive dashboarding**, alongside creating step-by-step analytics reference guides for the data community.
+Data Analyst with a foundation in software and database management, working across **Power BI**, **Tableau**, and **Python** to turn raw datasets into clear analysis, interactive dashboards, and structured workflows that support confident business decisions.
 
-- 🌐 **Portfolio Website:** [foram971.github.io](https://foram971.github.io/)
-- 📊 **Core Focus:** Exploratory Data Analysis, Statistical Modeling, ETL Pipelines & Executive BI
-- 📝 **Community Sharing:** Publishing Python data cleaning & statistical analysis cheat sheets on LinkedIn
+- **Portfolio Website:** [foram971.github.io](https://foram971.github.io/)
+- **Core Focus:** Data Modeling (Star Schema & Medallion Architecture), Executive Dashboards, Workforce & Retail Analytics, and Python Data Workflows
+- **Education:** Post Graduation in Computer Software and Database Management (Lambton College, Canada) · Bachelor's in Computer Application (Som Lalit College, India)
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### Core Stack & Tools
 
-| Category | Technologies & Libraries |
+| Category | Technologies & Methods |
 | :--- | :--- |
-| **Programming & Stats** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) `SciPy` `Statsmodels` `Seaborn` |
-| **Databases & Querying** | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) `CTEs` `Window Functions` `Data Modeling` |
-| **BI & Visualization** | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) `DAX` `KPI Storytelling` |
-| **Spreadsheets & ETL** | ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white) `Power Query` `Pivot Tables` `Automated Reporting` |
+| **BI & Visualization** | ![Power BI](https://img.shields.io/badge/Power_BI-111921?style=flat-square&logo=powerbi&logoColor=3ed6b5) ![Tableau](https://img.shields.io/badge/Tableau-111921?style=flat-square&logo=tableau&logoColor=3ed6b5) `DAX` `Power Query` `Star Schema` `Medallion Architecture` |
+| **Programming & Analysis** | ![Python](https://img.shields.io/badge/Python-111921?style=flat-square&logo=python&logoColor=3ed6b5) ![Pandas](https://img.shields.io/badge/Pandas-111921?style=flat-square&logo=pandas&logoColor=3ed6b5) ![NumPy](https://img.shields.io/badge/NumPy-111921?style=flat-square&logo=numpy&logoColor=3ed6b5) `Jupyter Notebook` `Data Cleaning` |
+| **Spreadsheets & Cloud** | ![Excel](https://img.shields.io/badge/Excel-111921?style=flat-square&logo=microsoftexcel&logoColor=3ed6b5) ![Azure](https://img.shields.io/badge/Microsoft_Azure-111921?style=flat-square&logo=microsoftazure&logoColor=3ed6b5) `Data Preparation` `KPI Reporting` |
 
 ---
 
-### 📌 Featured Repositories & Guides
+### Featured Projects
 
-| Project | Description | Stack |
+| Project | Description | Tools |
 | :--- | :--- | :--- |
-| **[Python Data Study Hub](https://github.com/foram971)** | Structured Python chapters covering data cleaning, EDA, and statistical workflows | `Python` `Pandas` `Seaborn` |
-| **[Statistical Analysis Reference](https://github.com/foram971)** | Practical implementations of descriptive stats, correlation checks & hypothesis tests | `SciPy` `Statsmodels` |
-| **[Business KPI Dashboard](https://github.com/foram971)** | End-to-end sales data cleaning and interactive executive reporting | `SQL` `Power BI` `Power Query` |
+| **[Business Analytics Solution](https://github.com/foram971/Power-BI)** | End-to-end analytics built with a Bronze, Silver, and Gold Medallion Architecture featuring Revenue, Cost, Profit Margin, YTD/QTD/LY time intelligence, and forecasting visuals | `Power BI` `DAX` `Power Query` |
+| **[Retail Analytics – WarmHands](https://github.com/foram971/Power-BI)** | Multi-table star schema retail model analyzing Orders, Customers, Stock, Price, Cost, and Country data with sales trends, profitability, and ABC product categorization | `Power BI` `Star Schema` `DAX` |
+| **[Job Market Analytics Dashboard](https://github.com/foram971?tab=repositories)** | Interactive dashboard analyzing industry hiring concentration, experience vs. job levels, salary benchmarks, skill demand, and applicant supply trends | `Tableau` `Excel` |
+| **[Python for Data Analytics](https://github.com/foram971/Python)** | Structured, chapter-by-chapter Python repository covering fundamentals, data structures, functions, file handling, and data preparation workflows | `Python` `Pandas` `NumPy` |
 
 ---
 
-<div align="center">
+### Certifications
 
-### 📈 GitHub Activity
-
-![Foram's GitHub Stats](https://github-readme-stats.vercel.app/api?username=foram971&show_icons=true&theme=default&title_color=1d4ed8&icon_color=1d4ed8&border_color=e2e8f0)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=foram971&layout=compact&theme=default&title_color=1d4ed8&border_color=e2e8f0)
-
-</div>
+- **IBM – Data Analyst Specialization** *(Issued May 2021)*
+- **AZ-900 – Microsoft Azure Fundamentals** *(Issued March 2021)*
