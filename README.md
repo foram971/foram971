@@ -39,6 +39,7 @@ Data Analyst with a foundation in software and database management, working acro
 | **[Retail Analytics – WarmHands](https://github.com/foram971/Power-BI)** | Multi-table star schema retail model analyzing Orders, Customers, Stock, Price, Cost, and Country data with sales trends, profitability, and ABC product categorization | `Power BI` `Star Schema` `DAX` |
 | **[Job Market Analytics Dashboard](https://github.com/foram971?tab=repositories)** | Interactive dashboard analyzing industry hiring concentration, experience vs. job levels, salary benchmarks, skill demand, and applicant supply trends | `Tableau` `Excel` |
 | **[Python for Data Analytics](https://github.com/foram971/Python)** | Structured, chapter-by-chapter Python repository covering fundamentals, data structures, functions, file handling, and data preparation workflows | `Python` `Pandas` `NumPy` |
+| **[Hospital Resource Management](https://github.com/foram971/Hospital-Resource-Management-SQL)** | SQL Server analysis of 2,506 patient records, 10 departments, and 2,847 beds covering length of stay, readmissions, bed utilization, and ER wait times | SQL Server · T-SQL · Excel |
 
 ---
 
